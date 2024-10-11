@@ -40,7 +40,7 @@ We appreciate any contribution, big or small! Here’s how to get started:
    Once you’re happy with your changes, commit and push them:
    ```bash
    git add .
-   git commit -m "Your detailed commit message"
+   git commit -m "SINGLE LINE COMMENT"
    git push origin <your-branch-name>
    ```
 
