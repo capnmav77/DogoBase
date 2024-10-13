@@ -1,0 +1,1 @@
+# Write a CLI for exploring the database from a terminal window
