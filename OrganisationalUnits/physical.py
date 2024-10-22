@@ -1,5 +1,6 @@
 # defines the physical layer. The Storage class provides the persistent , (mostly) append only record storage . 
 class Storage(object):
+    
     def commit_root_address(self, root_address):
         self.lock()
         self._f.flush()
