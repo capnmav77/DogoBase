@@ -77,5 +77,3 @@ class LogicalBase(object):
             return root.length
         else:
             return 0
-
-
