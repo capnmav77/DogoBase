@@ -1,5 +1,9 @@
 # Defines a class DBDB which implements the Python dictionary API using the concrete Binary Tree implementation. 
 # dbdb/interface.py
+
+from dbdb.binary_tree import BinaryTree
+from dbdb.physical import Storage
+
 class DBDB(object):
 
     def __init__(self, f):
